@@ -1,0 +1,6 @@
+body, h2, div, p {margin: 0; padding: 0; font-family: 'Noto Serif KR' }
+h1{font-family: 'Noto Serif KR'; font-weight: 400; font-size: 5em; margin-right: 8%; text-align: center; writing-mode: vertical-lr; margin: auto;}
+.a{text-align: left; margin: auto; font-family: 'Noto Serif KR'; width: 1200px  }
+.c{margin: auto; text-align: center; width: 1300px; display: flex;}
+.d{width: 50%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
+.e{width: 50%; text-align: center; margin: auto; line-height: 1.7; margin-bottom: 500px}
